@@ -6,7 +6,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 
 ### 🎍 Welcome to my hub 👨‍💻
 
-- 💼 Android Developer @ [Kanini](https://kanini.com).
+- 💼 Associate Specialist @ [Synechron](https://synechron.com).
 - 👨‍💻 I develop Mobile and can also develop Backend server for apps.
 - Loves 🎵 and 🎹.
 - Proud 🇮🇳.
